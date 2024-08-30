@@ -2,5 +2,5 @@
 - 👀 I'm interested in cloud computing, data science, AI, ML, and software engineering
 - 🌱 I'm currently learning advanced topics in parallel computing, NLP, and Generative AI applications
 - 💞️ I'm looking to collaborate on innovative projects in AI, machine learning, and full-stack development
-- 📫 How to reach me: i210404@nu.edu.pk or 0322-5005517
+- 📫 How to reach me: i210404@nu.edu.pk or +92322-5005517
 - 😄 Pronouns: He/Him
