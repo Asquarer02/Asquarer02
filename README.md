@@ -1,18 +1,19 @@
-# 💫 About Me:
-🛠️ I'm currently working on<br>pushing LLM agents to run fully on-device, no cloud, no API keys<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on<br>multi-agent systems, RAG, anything LangGraph<br><br>🙋 I'm looking for help with<br>scaling agent orchestration past single-team setups<br><br>🌱 I'm currently learning<br>distributed training, most of my fine-tuning so far has been single-GPU<br><br>💬 Ask me about<br>RAG, agents, LangGraph, on-device AI, Azure OpenAI
+# Ahmed Abdur Rahman
 
+AI Engineer at Brain Box Automations, Islamabad.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-abdur-rahman-b7131327b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asquarer02@yahoo.com) 
+I build production LLM systems: RAG pipelines, multi-agent orchestration with LangGraph, and retrieval tools people actually use day to day. Recent work includes a multi-agent research assistant, an MCP server that serves USDA nutrition data with deterministic macro math, and a Claude + Qdrant pipeline that pulls real exam questions from past papers into editable documents.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Asquarer02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Asquarer02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Asquarer02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I've contributed to [Lamatic's AgentKit](https://github.com/Lamatic/AgentKit), an open-source agentic app framework.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+2025 CS Cum Laude graduate.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**How I work**
+
+I write the spec before the code, even solo. The exam paper builder started as a full PRD before I touched a line.
+
+I don't trust a model's output where correctness matters. The USDA MCP server and the exam paper builder both exist because "probably right" isn't good enough for macros or exam content, so I built deterministic checks around the model instead of trusting its first answer.
+
+I review every AI-generated diff before it ships. I don't merge code I can't explain without the tool open.
+
+[LinkedIn](https://www.linkedin.com/in/ahmed-abdur-rahman-b7131327b/) · [Email](mailto:asquarer02@yahoo.com)
